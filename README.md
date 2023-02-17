@@ -3,7 +3,7 @@ HRMS with Java Spring
 
 
 
-# Engin Demiroğ, Kodlama.io, Java Spring 6. Gün ödevi
+# Engin Demiroğ, Kodlama.io, Java Spring 6.Gün ödevi
 
 Database
 
