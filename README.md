@@ -1,6 +1,10 @@
 # HRMS-Human-resource-management-system
 HRMS with Java Spring
 
+
+
+# Engin Demiroğ, Kodlama.io, Java Spring 6. Gün ödevi
+
 Aşağıdaki isterlere göre veri tabanı modellemesi yapınız. (Araştırma: PostgreSql'de tablo ve kolon ekleme) Veritabanı isminiz hrms olabilir.
 
 Sistemimiz üç temel kullanıcı türüne sahiptir. Sistem personeli, İş Arayanlar ve İş verenler. Sistem personeli : Projenizde çalışan kişiler. Örneğin Kariyer.Net personeli.
