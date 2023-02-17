@@ -6,7 +6,8 @@ HRMS with Java Spring
 # Engin Demiroğ, Kodlama.io, Java Spring 6. Gün ödevi
 
 Database
-![banner resmi](https://github.com/emrepiristinee/Seyahat-Blog-EasyTravel-Trip/blob/main/photos/header.png)
+
+![banner resmi](https://github.com/emrepiristinee/HRMS-Human-resource-management-system/blob/main/database.png)
 
 Aşağıdaki isterlere göre veri tabanı modellemesi yapınız. (Araştırma: PostgreSql'de tablo ve kolon ekleme) Veritabanı isminiz hrms olabilir.
 
